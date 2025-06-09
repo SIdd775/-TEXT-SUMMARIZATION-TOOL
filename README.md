@@ -60,6 +60,6 @@ The applicability of a text summarization tool spans various domains:
 In conclusion, a text summarization tool built using NLP techniques is an invaluable asset for processing and understanding vast amounts of text data. It significantly enhances productivity, decision-making, and information accessibility in today's fast-paced digital world.
 
 
-#OUTPUT
+# OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/5818109b-47d6-4555-bad4-a15a90f58334)
